@@ -1,6 +1,6 @@
 # progetto_ExF
 
-La cartella "progettoExF_DeMartin_Bruni" contiene la relazione del progetto in formato .pdf e la cartella "codice" con tutti i file necessari per la compilazione.
+La cartella "progetto_ExF" contiene la relazione del progetto in formato .pdf e la cartella "codice" con tutti i file necessari per la compilazione.
 
 All'interno della cartella "codice" sono presenti:
 - il codice della soluzione seriale;
