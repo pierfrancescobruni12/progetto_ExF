@@ -18,7 +18,8 @@ Per compilare i diversi codici seguire le seguenti istruzioni.
 - "nvcc -rdc=true 3_calcoloExF_parallelo.cu -lcudadevrt -o parallelo_3"
 -"parallelo_3 grafiSNAP/grafo1.txt"
     
-Abbiamo scelto come esempio confrontabile un grafo di piccole dimensioni, per testare i grafi riportati nella relazione è sufficiente sostituire "grafo1.txt" con uno tra i seguenti file:
+Abbiamo scelto come esempio confrontabile un grafo di piccole dimensioni, per testare i grafi riportati nella relazione è sufficiente sostituire
+"grafo1.txt" con uno tra i seguenti file:
 - "deezer.txt"
 - "Email.txt"
 - "LastFMAsia.txt"
