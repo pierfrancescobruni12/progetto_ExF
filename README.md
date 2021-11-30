@@ -1,6 +1,6 @@
 # progetto_ExF_versione1_da_aggiornare
 
-La cartella "progetto_ExF" contiene la relazione del progetto in formato .pdf e la cartella "codice" con tutti i file necessari per la compilazione.
+La sezione "progetto_ExF" contiene la relazione del progetto in formato .pdf e la cartella "codice" con tutti i file necessari per la compilazione.
 
 All'interno della cartella "codice" sono presenti:
 - il codice della soluzione seriale;
