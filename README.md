@@ -1,4 +1,4 @@
-# progetto_ExF_versione1_aggiornata
+# progetto_ExF
 
 Questo progetto contiene:
 - la relazione del progetto in formato .pdf;
